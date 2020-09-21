@@ -58,7 +58,7 @@ const prompts = {
             name: "title"
         },
         {
-            message: "What is their salary",
+            message: "What is their salary?",
             name: "salary"
         },
         {

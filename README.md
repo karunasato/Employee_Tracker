@@ -24,4 +24,4 @@ The command-line application allows the user to:
   
 URL of the GitHub repository: https://github.com/karunasato/Employee_Tracker.git
 
-URL of video demo: 
+URL of video demo: https://drive.google.com/file/d/1yJMwAMKHDZ4Tg7Pa3kg3vaFyrK0K1fj5/view 
